@@ -1,7 +1,7 @@
 package javaFundamentals;
 import java.util.Scanner;
 
- // Отобразить в окне консоли аргументы командной строки в обратном порядке.
+ //Отобразить в окне консоли аргументы командной строки в обратном порядке.
 
 public class JavaFundMainTask2 {
     public static void main (String args[]){
